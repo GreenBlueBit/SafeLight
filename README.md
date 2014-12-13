@@ -25,5 +25,7 @@ please whire to me on facebook, link bellow as well.
 LINKS 
 
 Google Camera Documentation : http://developer.android.com/reference/android/hardware/Camera.html
+
 My Facebook : https://www.facebook.com/ted.blop
+
 Google play page : // TO BE ADDED
