@@ -28,4 +28,4 @@ Google Camera Documentation : http://developer.android.com/reference/android/har
 
 My Facebook : https://www.facebook.com/ted.blop
 
-Google play page : // TO BE ADDED
+Google play page : https://play.google.com/store/apps/details?id=nu.bluebit.safelight
