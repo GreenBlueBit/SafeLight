@@ -17,7 +17,7 @@ about this, even if the app took pictures, how would they go anywhere? There's n
 In the links section of this README I've placed a link which will show you why the permission is needed and how it affects your phone.
 
 If anyone reads this and is interested in sparking up a conversation about developers, our work or just to understand what we actually do,
-please whire to me on facebook, link bellow as well.
+please write to me on facebook, link bellow as well.
 
 
 
